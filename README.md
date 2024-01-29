@@ -55,9 +55,9 @@
  
 |الوصف|الصفحة|التمرين|
 |:-:|:-:|:-:|
-|[Keys Holder](https://www.tinkercad.com/things/h3j5j8m8Eq4-keys-holder?sharecode=OGCI19tOshQ2u7LB9Amehbz6IG6NHb_z0j9RJwRKc-I)|25|التمرين الأول: تصميم حاملة مفاتيح|
-|[Glass](https://www.tinkercad.com/things/86035E70tF0-glass-?sharecode=bkljvktiNwa8-bX4iwDFP3xgl8zgH2j6QqCEtlBgAEI)|28|التمرين الثاني: تصميم كأس|
-|[Small House](https://www.tinkercad.com/things/g9kIIhuf7et-small-house?sharecode=exa96N0lnVGIY7PiaqYPnxAWRSIIKRsnwNWu9Hx_3p4)|30|التمرين الثالث : تصميم بيت صغير|
+|التمرين الأول: تصميم حاملة مفاتيح|25|[Keys Holder](https://www.tinkercad.com/things/h3j5j8m8Eq4-keys-holder?sharecode=OGCI19tOshQ2u7LB9Amehbz6IG6NHb_z0j9RJwRKc-I)|
+|التمرين الثاني: تصميم كأس|28|[Glass](https://www.tinkercad.com/things/86035E70tF0-glass-?sharecode=bkljvktiNwa8-bX4iwDFP3xgl8zgH2j6QqCEtlBgAEI)|
+|التمرين الثالث : تصميم بيت صغير|30|[Small House](https://www.tinkercad.com/things/g9kIIhuf7et-small-house?sharecode=exa96N0lnVGIY7PiaqYPnxAWRSIIKRsnwNWu9Hx_3p4)|
 
 </div>
 
@@ -68,8 +68,8 @@
 
 |الوصف|الصفحة|التمرين|
 |:-:|:-:|:-:|
-|[Mobile Stand](https://cad.onshape.com/documents/dc8201d30486316f0d8c78cb/w/d118a414dde412f4ce75aef8/e/15e24d8d93742bd0c0993750)|36|التمرين الأول: تصميم حامل (Stand) هاتف محمول|
-|[ESP 32 Box](https://cad.onshape.com/documents/c21de55b7c6197960ae3b2f3/w/6044b83ed8766350f31b7777/e/60a2e800fe33fd4f6b9db20f)|44|التمرين الثاني: تصميم علبة لوحة ESP 32 devkit v1|
+|التمرين الأول: تصميم حامل (Stand) هاتف محمول|36|[Mobile Stand](https://cad.onshape.com/documents/dc8201d30486316f0d8c78cb/w/d118a414dde412f4ce75aef8/e/15e24d8d93742bd0c0993750)|
+|التمرين الثاني: تصميم علبة لوحة (ESP 32 devkit v1)|44| [ESP 32 Box](https://cad.onshape.com/documents/c21de55b7c6197960ae3b2f3/w/6044b83ed8766350f31b7777/e/60a2e800fe33fd4f6b9db20f)|
 
 </div>
 
