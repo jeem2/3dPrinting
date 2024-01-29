@@ -20,11 +20,11 @@
 ## أهم المواقع التي توفر تصاميم ثلاثية الأبعاد جاهزة:
 <div align="center">
  
-|اسم الموقع|الوصف|رابط الموقع|مثال|
+|اسم الموقع|رابط الموقع|الوصف|مثال|
 |:-:|:-:|:-:|:-:|
-|Thingiverse|موقع تابع لشركة Ultimaker، جميع النماذج المتوفرة فيه مجانية|[Thingiverse](https://www.thingiverse.com/)|[Tiny House](https://www.thingiverse.com/thing:5219997)|
-|Printables|موقع تابع لشركة Prusa، جميع النماذج المتوفرة فيه مجانية|[Printables](https://www.printables.com/)|[Eiffel Tower](https://www.printables.com/model/572-eiffel-tower)|
-|Cults|يقدم شريحة كبيرة من النماذج، قد تكون بعض النماذج المتوفرة فيه مدفوعة|[Cluts 3D](https://cults3d.com/)|[Mini Cooper](https://cults3d.com/en/3d-model/home/morris-mini-cooper-s-rally)|
+|Thingiverse|[Thingiverse](https://www.thingiverse.com/)|موقع تابع لشركة Ultimaker، جميع النماذج المتوفرة فيه مجانية|[Tiny House](https://www.thingiverse.com/thing:5219997)|
+|Printables|[Printables](https://www.printables.com/)|موقع تابع لشركة Prusa، جميع النماذج المتوفرة فيه مجانية|[Eiffel Tower](https://www.printables.com/model/572-eiffel-tower)|
+|Cults|[Cluts 3D](https://cults3d.com/)|يقدم شريحة كبيرة من النماذج، قد تكون بعض النماذج المتوفرة فيه مدفوعة|[Mini Cooper](https://cults3d.com/en/3d-model/home/morris-mini-cooper-s-rally)|
 
 </div>
 
