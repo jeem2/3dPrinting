@@ -4,8 +4,8 @@
  <h2 align="center">مرحباً بك في نادي الطباعة ثلاثية الأبعاد</h2>
 </p>
 
-- ![#669BBC](https://placehold.co/12x12/AFEEFD/AFEEFD.png) `هذه الصفحة مخصصة لروابط كتاب دليل البدء السريع في الطباعة ثلاثية الأبعاد (Ender-3 V3 KE)`
-- ![#C1121F](https://placehold.co/15x15/B5B1FB/B5B1FB.png) `للاستفادة القصوى من هذه الصفحة احرص على طلب الكتاب من متجر JEEM3 الالكتروني`
+- ![#669BBC](https://placehold.co/12x12/669BBC/669BBC.png) `هذه الصفحة مخصصة لروابط كتاب دليل البدء السريع في الطباعة ثلاثية الأبعاد (Ender-3 V3 KE)`
+- ![#C1121F](https://placehold.co/15x15/C1121F/C1121F.png) `للاستفادة القصوى من هذه الصفحة احرص على طلب الكتاب من متجر JEEM3 الالكتروني`
 
 ## مصادر حول تجميع الطابعة (Ender-3 v3 KE):
 صفحة يوتيوب مهتمة بالطباعة ثلاثية الأبعاد :[Unboxing step by step](https://www.youtube.com/watch?v=tbs7YWNqxpw)
