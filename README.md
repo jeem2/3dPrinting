@@ -63,7 +63,7 @@
 
 <div align="center"> <h2>موقع Onshape : </h2>
 
-التعرف على واجهة الموقع و الأدوات المهمة: [Bigenner Tutorial](https://www.youtube.com/watch?v=pMWnsHpDlQE&list=PLxmrkna-ixrIQmsPR3MITi4Ru1bnMH4-l)
+التعرف على واجهة الموقع و الأدوات المهمة: [Beginner Tutorial](https://www.youtube.com/watch?v=pMWnsHpDlQE&list=PLxmrkna-ixrIQmsPR3MITi4Ru1bnMH4-l)
 <h3>التمارين</h3>
 
 |الوصف|الصفحة|التمرين|
