@@ -94,6 +94,7 @@
 
 ## بعض المصادر المفيدة:
 خصائص مواد الطباعة والمقارنة بينها:[Filament Properties Table](https://www.simplify3d.com/resources/materials-guide/properties-table/)
+
 موقع يهتم بالطباعة ثلاثية الأبعاد ويعتبر مرجع جيد جداً للتعرف على تقنيات الطباعة ثلاثية الأبعاد المختلفة: [ALL3DP](https://all3dp.com/)
 
 
